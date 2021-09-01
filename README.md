@@ -1,4 +1,4 @@
-# Morse code translator app
+# Translate to Morse Code
 
 This is a translator app which takes some text as input and translates it to morse code using fun translations api and displays the translated code.
 
